@@ -1,4 +1,4 @@
-## Oss 수업 관련
+## OSS 수업 관련
 
 - 🔭 My main interst is Python programming.
 - 🌱 I’m currently studing back-end in app development.
